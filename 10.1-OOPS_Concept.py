@@ -33,21 +33,21 @@ class Employee:
 
 harry = Employee()
 # this is an instance attribute 
-harry.salary =300
+kunal.salary =300
 
 rajni = Employee()
 # this is an instance attribute 
-rajni.salary =400
+newuser.salary =400
 
-print(harry.compamy)
-print(rajni.compamy)
+print(kunal.compamy)
+print(newuser.compamy)
 
 Employee.compamy= "youtube"
-print(harry.compamy)
-print(harry.salary)
+print(kunal.compamy)
+print(kunal.salary)
 
-print(rajni.compamy)
-print(rajni.salary)
+print(newuser.compamy)
+print(newuser.salary)
 
 
 
