@@ -1,14 +1,14 @@
 # Python
 
-This is a repo for all my python practice and basic project collection.
+This is a repo for all my Python practice and basic project collection.
 
 ### For Learning
 
-* Navigate to my learning folder or click on [Learning](/Learning).
+* Navigate to my Learning folder or click on [Learning](/Learning).
 
 ### For Projects
 
-* Navigate to my learning folder or click on [Projects](/Projects).
+* Navigate to my Projects folder or click on [Projects](/Projects).
 
 ### Contact
 
@@ -16,4 +16,4 @@ This is a repo for all my python practice and basic project collection.
 
 ### License
 
-* This project is licensed under MIT License, See [LICENSE](/LICENSE) for more information.
+* This project is licensed under the MIT License. See [LICENSE](/LICENSE) for more information.
